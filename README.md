@@ -1,4 +1,4 @@
-# STARTER-lab02
+# lab02-Shellyfc
 
 * TODO: Change the title of this README in the text `# STARTER-lab02` above
   to match the name of your repo, i. e., `lab02-yourgithubid`, then delete
