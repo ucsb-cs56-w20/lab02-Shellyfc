@@ -1,6 +1,7 @@
 # lab02-Shellyfc
 
 Javadoc: https://ucsb-cs56-w20.github.io/lab02-Shellyfc/
+
 Repo: https://github.com/ucsb-cs56-w20/lab02-Shellyfc.git
 
 # About this repo
